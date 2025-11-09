@@ -1,0 +1,71 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:ab34a7d946525376f465cb8124a1f6a4:f7f86b8872e90ed2264a13e599578642:41e343de003ae5c26b152ad8855fea08$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite-ingamemenu {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(in_game_menu_css.png);}
+
+.igm_bg_hor {width:1105px; height:633px; background-position: -3px -1190px}
+.igm_bg_ver {width:672px; height:1183px; background-position: -3px -3px}
+.igm_cancel_en {width:247px; height:89px; background-position: -886px -515px}
+.igm_cancel_id {width:247px; height:89px; background-position: -886px -608px}
+.igm_cancel_ko {width:247px; height:89px; background-position: -679px -746px}
+.igm_cancel_ms {width:247px; height:89px; background-position: -679px -839px}
+.igm_cancel_ph {width:247px; height:89px; background-position: -679px -932px}
+.igm_cancel_th {width:247px; height:89px; background-position: -679px -1025px}
+.igm_cancel_vi {width:247px; height:89px; background-position: -1137px -515px}
+.igm_cancel_zh-cn {width:247px; height:89px; background-position: -1137px -608px}
+.igm_check_bg {width:642px; height:508px; background-position: -679px -3px}
+.igm_close {width:71px; height:71px; background-position: -1388px -595px}
+.igm_confirm_en {width:247px; height:89px; background-position: -930px -701px}
+.igm_confirm_id {width:247px; height:89px; background-position: -930px -794px}
+.igm_confirm_ko {width:247px; height:89px; background-position: -930px -887px}
+.igm_confirm_ms {width:247px; height:89px; background-position: -930px -980px}
+.igm_confirm_ph {width:247px; height:89px; background-position: -1181px -701px}
+.igm_confirm_th {width:247px; height:89px; background-position: -1181px -794px}
+.igm_confirm_vi {width:247px; height:89px; background-position: -1181px -887px}
+.igm_confirm_zh-cn {width:247px; height:89px; background-position: -1181px -980px}
+.igm_favorite_but_0 {width:65px; height:63px; background-position: -1463px -595px}
+.igm_favorite_but_1 {width:65px; height:63px; background-position: -1463px -662px}
+.igm_favorite_en_0 {width:212px; height:66px; background-position: -1112px -1393px}
+.igm_favorite_en_1 {width:230px; height:60px; background-position: -1325px -3px}
+.igm_favorite_id_0 {width:212px; height:66px; background-position: -1112px -1463px}
+.igm_favorite_id_1 {width:230px; height:60px; background-position: -679px -1118px}
+.igm_favorite_ko_0 {width:212px; height:66px; background-position: -1112px -1533px}
+.igm_favorite_ko_1 {width:230px; height:60px; background-position: -1325px -67px}
+.igm_favorite_ms_0 {width:212px; height:66px; background-position: -1112px -1603px}
+.igm_favorite_ms_1 {width:230px; height:60px; background-position: -1325px -131px}
+.igm_favorite_ph_0 {width:212px; height:66px; background-position: -1112px -1673px}
+.igm_favorite_ph_1 {width:230px; height:60px; background-position: -1325px -195px}
+.igm_favorite_th_0 {width:212px; height:66px; background-position: -1112px -1743px}
+.igm_favorite_th_1 {width:230px; height:60px; background-position: -1325px -259px}
+.igm_favorite_vi_0 {width:212px; height:66px; background-position: -1346px -1137px}
+.igm_favorite_vi_1 {width:230px; height:60px; background-position: -1325px -323px}
+.igm_favorite_zh-cn_0 {width:212px; height:66px; background-position: -1346px -1207px}
+.igm_favorite_zh-cn_1 {width:230px; height:60px; background-position: -1325px -387px}
+.igm_hot {width:120px; height:36px; background-position: -1388px -515px}
+.igm_icon_board {width:203px; height:227px; background-position: -679px -515px}
+.igm_new {width:120px; height:36px; background-position: -1388px -555px}
+.igm_popular_en_0 {width:212px; height:66px; background-position: -1346px -1277px}
+.igm_popular_en_1 {width:230px; height:60px; background-position: -1325px -451px}
+.igm_popular_id_0 {width:212px; height:66px; background-position: -1346px -1277px}
+.igm_popular_id_1 {width:230px; height:60px; background-position: -1325px -451px}
+.igm_popular_ko_0 {width:212px; height:66px; background-position: -1346px -1347px}
+.igm_popular_ko_1 {width:230px; height:60px; background-position: -930px -1073px}
+.igm_popular_ms_0 {width:212px; height:66px; background-position: -1328px -1417px}
+.igm_popular_ms_1 {width:230px; height:60px; background-position: -1164px -1073px}
+.igm_popular_ph_0 {width:212px; height:66px; background-position: -1328px -1487px}
+.igm_popular_ph_1 {width:230px; height:60px; background-position: -1112px -1137px}
+.igm_popular_th_0 {width:212px; height:66px; background-position: -1328px -1557px}
+.igm_popular_th_1 {width:230px; height:60px; background-position: -1112px -1201px}
+.igm_popular_vi_0 {width:212px; height:66px; background-position: -1328px -1627px}
+.igm_popular_vi_1 {width:230px; height:60px; background-position: -1112px -1265px}
+.igm_popular_zh-cn_0 {width:212px; height:66px; background-position: -1328px -1697px}
+.igm_popular_zh-cn_1 {width:230px; height:60px; background-position: -1112px -1329px}
